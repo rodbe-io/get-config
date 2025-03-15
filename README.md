@@ -16,7 +16,7 @@
 
 ## Supported Configuration File Formats (order matters)
 
-| File name                  | Language | Example                      |
+| File name                  | Language | Example using "myapp"        |
 |----------------------------|----------|------------------------------|
 | package.json               | json     | "myapp" prop in package.json |
 | .{MyModuleName}rc          | json     | .myapprc                     |
