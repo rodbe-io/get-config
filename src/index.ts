@@ -106,10 +106,6 @@ export const getConfig = async <T>(moduleName: string, opts: Options): Promise<T
     return null;
   }
 
-  if (!configPath) {
-    return null;
-  }
-
   const extFile = extname(configPath);
 
   if (['.js', '.mjs'].includes(extFile)) {
