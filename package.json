@@ -1,6 +1,6 @@
 {
   "name": "@rodbe/get-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find and load configuration from rc, json files or from esm, cjs modules",
   "keywords": [
     "front-end",
